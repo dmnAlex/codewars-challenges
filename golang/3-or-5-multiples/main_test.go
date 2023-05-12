@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+// Solution
 func Multiple3And5(number int) int {
 	sum := 0
 
